@@ -1,0 +1,15 @@
+.student
+{
+  font-family: Arial,sans-serif;
+  font-size: 1.8em;
+  padding: 10px;
+  border: 1px solid rgb(29, 29, 29);
+  margin-top: 10px;
+  text-align: left;
+  height: auto;
+  width: 300px;
+}
+.student p{
+  margin: 0px;
+  padding: 3px;
+}
